@@ -1,0 +1,85 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "image": "images/Saving.jpg",
+        "name": "Product 1 Name",
+        "size": 26,
+        "price": 100.00,
+        "description": "Product 1 Description"
+      },
+      {
+        "id": 2,
+        "image": "images/Simplicity.jpg",
+        "name": "Product 2 Name",
+        "size": "XL",
+        "price": 200.00,
+        "description": "Product 2 Description"
+      },
+      {
+        "id": 3,
+        "image": "images/red-sit.jpg",
+        "name": "Product 3 Name",
+        "size": 50,
+        "price": 300.00,
+        "description": "Product 3 Description"
+      },
+      {
+        "id": 4,
+        "image": "images/Popular.jpg",
+        "name": "Product 4 Name",
+        "price": 400.00,
+        "size": "XX",
+        "description": "Product 4 Description"
+      },
+      {
+        "id": 5,
+        "image": "images/Online.jpg",
+        "name": "Product 5 Name",
+        "size": 26,
+        "price": 500.00,
+        "description": "Product 5 Description"
+      },
+      {
+        "id": 6,
+        "image": "images/Empowerment.jpg",
+        "name": "Product 6 Name",
+        "size": "M",
+        "price": 600.00,
+        "description": "Product 6 Description"
+      },
+      {
+        "id": 7,
+        "image": "images/Diversity.jpg",
+        "name": "Product 7 Name",
+        "size": 26,
+        "price": 700.00,
+        "description": "Product 7 Description"
+      },
+      {
+        "id": 8,
+        "image": "images/Create.jpg",
+        "name": "Product 8 Name",
+        "size": 26,
+        "price": 800.00,
+        "description": "Product 8 Description"
+      },
+      {
+        "id": 9,
+        "image": "images/Access.jpg",
+        "name": "Product 9 Name",
+        "size": "SS",
+        "price": 900.00,
+        "description": "Product 9 Description"
+      },
+      {
+        "id": 10,
+        "image": "images/Saving.jpg",
+        "name": "Product 10 Name",
+        "size": 26,
+        "price": 1000.00,
+        "description": "Product 10 Description"
+      }
+    ]
+  }
+  
